@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Giacomo and I'm a Software Engineer from Catania</h2>
+<h2 align="left">Hi 👋! My name is Giacomo and I'm a Software Engineer from Siracusa</h2>
 
 ###
 
